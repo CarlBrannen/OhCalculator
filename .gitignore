@@ -1,0 +1,19 @@
+# Build output
+build/
+dist/
+
+# NetBeans private local settings
+nbproject/private/
+
+# Logs
+*.log
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+
+# Packaged jars, if you do not want them in source control
+*.jar
